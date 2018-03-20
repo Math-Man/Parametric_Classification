@@ -1,0 +1,6 @@
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\bin\Debug\Parametric_Classification.exe.config
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\bin\Debug\Parametric_Classification.exe
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\bin\Debug\Parametric_Classification.pdb
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\obj\Debug\Parametric_Classification.csprojResolveAssemblyReference.cache
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\obj\Debug\Parametric_Classification.exe
+c:\users\mathman\documents\visual studio 2015\Projects\Parametric_Classification\Parametric_Classification\obj\Debug\Parametric_Classification.pdb
